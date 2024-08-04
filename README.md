@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-# I'm Marco Xu, a Fullstack developer based in Vancouver, Canada.
+Welcome to my page.
 
 ---
 
 ### About Me
 
-I am a proficient full-stack developer with over 7 years of experience in engineering design, programming, and problem-solving. My expertise spans JavaScript, React, Node.js, and SQL/NoSQL databases, and I have a strong background in web application and network security. I thrive in fast-paced environments and am passionate about delivering high-quality software solutions.
+I am a proficient Fullstack developer with over 7 years of experience in engineering design, programming, and problem-solving. My expertise spans JavaScript, React, Node.js, and SQL/NoSQL databases, and I have a strong background in web application and network security. I thrive in fast-paced environments and am passionate about delivering high-quality software solutions.
 
 ### Work Experience
 
