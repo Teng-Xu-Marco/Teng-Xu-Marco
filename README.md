@@ -37,12 +37,6 @@ I am a proficient Fullstack developer with over 7 years of experience in enginee
 *Sep 2023 - Apr 2024*  
 - Provided technical assistance to over 80 students, helping them with complex Linux assignments.
 
-**R&D Manager, Software Automation Engineer**  
-*Shanghai Intelligent Quality Technology Co., Ltd., Shanghai, China*  
-*Jan 2021 - Mar 2023*  
-- Directed a team of 25+ engineers in designing and developing scalable distributed control systems.
-- Achieved a 30% reduction in labor costs and a 20% increase in production efficiency through software automation.
-
 ### Projects
 
 **X (Twitter) Website Clone**  
@@ -58,22 +52,3 @@ I am a proficient Fullstack developer with over 7 years of experience in enginee
 - **Web Development:** React, Redis, jQuery, Angular, Node.js, Flask, RESTful API, MongoDB, MySQL
 - **Developer Tools:** Git, GitHub, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab, CodePipeline
 - **Cloud Platforms:** AWS (EC2, Fargate, Lambda, ECS, EKS, S3, RDS, DynamoDB), Azure, GCP
-
-### Education
-
-**New York Institute of Technology**  
-*Master of Science in Cybersecurity*  
-*Vancouver, Canada*  
-*May 2023 - Dec 2024*  
-- GPA: 3.87/4.0
-- Coursework: Data Structure & Algorithm, Operating System, Advanced Network, Intrusion Detection
-
-**North China Electric Power University**  
-*Master of Engineering in Pattern Recognition & Intelligent System*  
-*Beijing, China*  
-*Sep 2014 - Mar 2017*
-
-**North China Electric Power University**  
-*Bachelor of Engineering in Automation*  
-*Beijing, China*  
-*Sep 2010 - Jun 2014*
