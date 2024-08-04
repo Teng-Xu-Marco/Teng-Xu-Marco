@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Marco Xu
-
-**Vancouver, Canada**  
-[marcox23@gmail.com](mailto:marcox23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marcotxu) | [GitHub](https://github.com/MarcoClassUse)
+# I'm Marco Xu, a Fullstack developer based in Vancouver, Canada.
 
 ---
 
